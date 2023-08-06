@@ -3,6 +3,6 @@ Simple game to develop your [parallel thinking](https://en.wikipedia.org/wiki/Pa
 Stack: Angular 6 + TypeScript. 
  
 Demo available at:
-https://ivarmah.github.io/heartbeat-exercise/
+https://esoteric-puzzles.github.io/heartbeat-exercise/
 
 ![Alt text](https://www.dropbox.com/s/4kfyt7tuy80zwig/hearts.gif?raw=1 "Webcam bot")
